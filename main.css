@@ -22,7 +22,7 @@ body {
 .navbar {
   position: sticky;
   top: 0;
-  height: 70px;
+  height: 60px;
   width: 100%;
   display: flex;
   align-items: center;
@@ -257,3 +257,5 @@ body {
   text-transform: capitalize;
   margin-bottom: 1rem;
 }
+
+/* --------------- End of Cart ---------------- */
