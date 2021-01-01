@@ -1,6 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap');
 
-
 * {
 margin :0;
 padding: 0;
@@ -19,7 +18,6 @@ font-family: 'poppins', sans-serif;
     flex-direction: column;
     background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url(/images/hero-bcg.jpeg);
     background-size: cover;
-
 }
 
 .contact .content
@@ -138,7 +136,6 @@ margin-top: 0px;
 .contactForm .inputBox input:valid ~ span,
 .contactForm .inputBox textarea:focus ~ span,
 .contactForm .inputBox textarea:valid ~ span
-
 {
 color: rgb(224, 171, 72);
 font-size: 12px;
