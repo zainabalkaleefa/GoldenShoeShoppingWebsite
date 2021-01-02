@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap");
 
 * {
 margin :0;
@@ -16,7 +16,7 @@ font-family: 'poppins', sans-serif;
     align-items: center;
     justify-content: center;
   }
-  
+
 .contact{
     position: relative;
     min-height: 100vh;
@@ -25,7 +25,7 @@ font-family: 'poppins', sans-serif;
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url(/images/hero-bcg.jpeg);
+    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url("./images/hero-bcg.jpeg") center/cover no-repeat;
     background-size: cover;
 }
 
